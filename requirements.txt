@@ -1,0 +1,9 @@
+streamlit>=1.24.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+soundfile>=0.12.0
+sounddevice>=0.4.5
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0
